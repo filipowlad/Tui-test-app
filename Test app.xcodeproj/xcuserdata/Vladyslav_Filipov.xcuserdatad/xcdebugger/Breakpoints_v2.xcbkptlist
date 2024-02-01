@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "753F78FD-8DD0-445A-9032-E8364C5EDD71"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F28E15B1-A33E-4A3B-A18F-2CB6E4EDB54F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Components/Sources/Components/MapComponent/MapComponent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "map"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "330A63F4-A282-42F2-A40E-69281F68E9A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Features/Sources/Features/AddNewRoute/ViewState/AddNewRouteViewState.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "305"
+            endingLineNumber = "305"
+            landmarkName = "buildCheapestRoute(startLocationItem:destinationLocationItem:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "330A63F4-A282-42F2-A40E-69281F68E9A3 - 9a5bc80b336ff2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Features.AddNewRouteViewState.buildCheapestRoute(startLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;, destinationLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;) -&gt; Swift.Optional&lt;Features.AddNewRouteViewState.Route&gt;"
+                  moduleName = "FeaturesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vladyslav_Filipov/Downloads/Test%20app/Test%20app/Features/Sources/Features/AddNewRoute/ViewState/AddNewRouteViewState.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "1904">
+               </Location>
+               <Location
+                  uuid = "330A63F4-A282-42F2-A40E-69281F68E9A3 - 9a5bc80b336ff2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Features.AddNewRouteViewState.buildCheapestRoute(startLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;, destinationLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;) -&gt; Swift.Optional&lt;Features.AddNewRouteViewState.Route&gt;"
+                  moduleName = "FeaturesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vladyslav_Filipov/Downloads/Test%20app/Test%20app/Features/Sources/Features/AddNewRoute/ViewState/AddNewRouteViewState.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+               <Location
+                  uuid = "330A63F4-A282-42F2-A40E-69281F68E9A3 - 90fd2ee20d4bbfa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Features.AddNewRouteViewState.buildCheapestRoute(startLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;, destinationLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;) -&gt; Swift.Optional&lt;Features.AddNewRouteViewState.Route&gt;"
+                  moduleName = "Test app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vladyslav_Filipov/Downloads/Test%20app/Test%20app/Features/Sources/Features/AddNewRoute/ViewState/AddNewRouteViewState.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+               <Location
+                  uuid = "330A63F4-A282-42F2-A40E-69281F68E9A3 - ad83aad48148504c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Features.AddNewRouteViewState.buildCheapestRoute(startLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;, destinationLocationItem: Swift.Optional&lt;Features.AddNewRouteViewState.LocationItem&gt;) -&gt; Swift.Optional&lt;Features.AddNewRouteViewState.Route&gt;"
+                  moduleName = "Test app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Vladyslav_Filipov/Downloads/Own/Tui-test-app/Features/Sources/Features/AddNewRoute/ViewState/AddNewRouteViewState.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,149 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "ADD_NEW_ROUTE_ACTION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add new route"
+          }
+        }
+      }
+    },
+    "ADD_NEW_ROUTE_DESTINATION_PROMPT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write your destination location"
+          }
+        }
+      }
+    },
+    "ADD_NEW_ROUTE_LOADER_TEXT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fetching data..."
+          }
+        }
+      }
+    },
+    "ADD_NEW_ROUTE_NAVIGATION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add new route"
+          }
+        }
+      }
+    },
+    "ADD_NEW_ROUTE_SAVE_ROUTE_ACTION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save route"
+          }
+        }
+      }
+    },
+    "ADD_NEW_ROUTE_START_PROMPT" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Write your start location"
+          }
+        }
+      }
+    },
+    "ROUTE_DELETE_ROUTE_ACTION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete route"
+          }
+        }
+      }
+    },
+    "ROUTE_INFORMATION_%lld_OF_STOPS_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld stop"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld stops"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ROUTE_INFORMATION_NO_STOPS_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No stops"
+          }
+        }
+      }
+    },
+    "ROUTE_INFORMATION_PASSTHROUGH_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goes through:"
+          }
+        }
+      }
+    },
+    "ROUTE_NAVIGATION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Route"
+          }
+        }
+      }
+    },
+    "ROUTES_NAVIGATION_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Routes"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
