@@ -179,7 +179,7 @@ private extension SelectLocationItem {
                 Spacer()
             }
         }
-        .clipShape(Rectangle())
+        .contentShape(Rectangle())
         .onTapGesture {
             selectedLocationId = locationItem.id
             textFieldIsFocused = false
